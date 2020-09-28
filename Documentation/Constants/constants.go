@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//Pi is 3.14
 const Pi = 3.14
 
 func main() {
